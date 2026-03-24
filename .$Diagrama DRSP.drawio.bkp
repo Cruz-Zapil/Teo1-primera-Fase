@@ -1,0 +1,229 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.5.2 Safari/537.36" version="29.6.1">
+  <diagram name="Página-1" id="OY8Vx-T4e-Kwf5_kWKKy">
+    <mxGraphModel dx="963" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="790" pageHeight="360" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="center" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;align=center;fontColor=#000000;" value="Syshub&#xa;Analisis DSRP" vertex="1">
+          <mxGeometry height="80" width="200" x="395" y="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="d_container" parent="1" style="swimlane;startSize=30;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;align=left;swimlaneLine=1;fontColor=#000000;" value="D — Distinciones" vertex="1">
+          <mxGeometry height="280" width="360" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d_title" parent="d_container" style="text;html=1;fontStyle=1;fontSize=11;fillColor=none;strokeColor=none;align=left;fontColor=#FFFFFF;" value="Que ES Syshub" vertex="1">
+          <mxGeometry height="20" width="200" x="10" y="36" as="geometry" />
+        </mxCell>
+        <mxCell id="d_in1" parent="d_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9673a6;strokeColor=#7a5ea0;fontColor=#000000;fontSize=11;" value="Ecosistema de conocimiento" vertex="1">
+          <mxGeometry height="30" width="160" x="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_in2" parent="d_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9673a6;strokeColor=#7a5ea0;fontColor=#000000;fontSize=11;" value="Repositorio activo" vertex="1">
+          <mxGeometry height="30" width="160" x="180" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_in3" parent="d_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9673a6;strokeColor=#7a5ea0;fontColor=#000000;fontSize=11;" value="Red social academica" vertex="1">
+          <mxGeometry height="30" width="160" x="10" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d_in4" parent="d_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9673a6;strokeColor=#7a5ea0;fontColor=#000000;fontSize=11;" value="Curaduria semestral" vertex="1">
+          <mxGeometry height="30" width="160" x="180" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d_title2" parent="d_container" style="text;html=1;fontStyle=1;fontSize=11;fillColor=none;strokeColor=none;align=left;fontColor=#FFFFFF;" value="Que NO ES Syshub" vertex="1">
+          <mxGeometry height="20" width="200" x="10" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="d_out1" parent="d_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;fontSize=11;" value="Drive / almacenamiento" vertex="1">
+          <mxGeometry height="30" width="160" x="10" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="d_out2" parent="d_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;fontSize=11;" value="LMS (Moodle, Canvas)" vertex="1">
+          <mxGeometry height="30" width="160" x="180" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="d_out3" parent="d_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;fontSize=11;" value="Chat / mensajeria" vertex="1">
+          <mxGeometry height="30" width="160" x="10" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="d_out4" parent="d_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;fontSize=11;" value="IA generativa" vertex="1">
+          <mxGeometry height="30" width="160" x="180" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="d_note" parent="d_container" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;fontStyle=0;align=left;fontColor=#FFFFFF;" value="Distincion clave: genera conocimiento por interaccion, no solo acumula archivos." vertex="1">
+          <mxGeometry height="28" width="330" x="10" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="s_container" parent="1" style="swimlane;startSize=30;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;align=left;fontColor=#000000;" value="S — Sistemas" vertex="1">
+          <mxGeometry height="280" width="360" x="620" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s_supra" parent="s_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9dbc8;strokeColor=#d6714e;fontSize=11;fontStyle=2;fontColor=#000000;" value="Suprasistema: Institucion educativa (semestres, cursos, pensum)" vertex="1">
+          <mxGeometry height="30" width="340" x="10" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="s_mod1" parent="s_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#5a8040;fontColor=#000000;fontSize=11;" value="Identidad y perfiles" vertex="1">
+          <mxGeometry height="36" width="155" x="10" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s_mod2" parent="s_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#5a8040;fontColor=#000000;fontSize=11;" value="Repositorio de proyectos" vertex="1">
+          <mxGeometry height="36" width="175" x="175" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s_mod3" parent="s_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#5a8040;fontColor=#000000;fontSize=11;" value="Foros y social (Sys-Reddit)" vertex="1">
+          <mxGeometry height="36" width="175" x="10" y="126" as="geometry" />
+        </mxCell>
+        <mxCell id="s_mod4" parent="s_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#5a8040;fontColor=#000000;fontSize=11;" value="Curaduria del Auxiliar" vertex="1">
+          <mxGeometry height="36" width="155" x="195" y="126" as="geometry" />
+        </mxCell>
+        <mxCell id="s_mod5" parent="s_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#5a8040;fontColor=#000000;fontSize=11;" value="Panel de administracion" vertex="1">
+          <mxGeometry height="36" width="155" x="10" y="172" as="geometry" />
+        </mxCell>
+        <mxCell id="s_mod6" parent="s_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#5a8040;fontColor=#000000;fontSize=11;" value="Moderacion de contenido" vertex="1">
+          <mxGeometry height="36" width="175" x="175" y="172" as="geometry" />
+        </mxCell>
+        <mxCell id="s_note" parent="s_container" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;fontStyle=2;align=left;fontColor=#000000;" value="Cada modulo comparte la capa de identidad y roles como base comun." vertex="1">
+          <mxGeometry height="28" width="330" x="10" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="s_shared" parent="s_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontStyle=2;fontColor=#000000;" value="Capa compartida: Autenticacion / Roles / Sesion" vertex="1">
+          <mxGeometry height="24" width="340" x="10" y="246" as="geometry" />
+        </mxCell>
+        <mxCell id="r_container" parent="1" style="swimlane;startSize=30;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;align=left;" value="R — Relaciones" vertex="1">
+          <mxGeometry height="300" width="360" x="50" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="r_sub" parent="r_container" style="text;html=1;fontStyle=1;fontSize=11;fillColor=none;strokeColor=none;align=left;" value="Interacciones usuario → contenido" vertex="1">
+          <mxGeometry height="20" width="280" x="10" y="36" as="geometry" />
+        </mxCell>
+        <mxCell id="r_a1" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7ea6e0;strokeColor=#5d7eb8;fontColor=#ffffff;fontSize=11;" value="Estudiante" vertex="1">
+          <mxGeometry height="28" width="90" x="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_v1" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontColor=#000000;" value="publica" vertex="1">
+          <mxGeometry height="28" width="68" x="130" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_t1" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontColor=#000000;" value="Proyecto / hilo" vertex="1">
+          <mxGeometry height="28" width="110" x="236" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_e1a" edge="1" parent="r_container" source="r_a1" style="edgeStyle=orthogonalEdgeStyle;" target="r_v1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_e1b" edge="1" parent="r_container" source="r_v1" style="edgeStyle=orthogonalEdgeStyle;" target="r_t1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_a2" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7ea6e0;strokeColor=#5d7eb8;fontColor=#000000;fontSize=11;" value="Estudiante" vertex="1">
+          <mxGeometry height="28" width="90" x="10" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r_v2" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontColor=#000000;" value="valora / comenta" vertex="1">
+          <mxGeometry height="28" width="100" x="128" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r_t2" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontColor=#000000;" value="Contenido" vertex="1">
+          <mxGeometry height="28" width="90" x="255" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r_e2a" edge="1" parent="r_container" source="r_a2" style="edgeStyle=orthogonalEdgeStyle;" target="r_v2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_e2b" edge="1" parent="r_container" source="r_v2" style="edgeStyle=orthogonalEdgeStyle;" target="r_t2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_a3" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#82b366;strokeColor=#5a8040;fontColor=#000000;fontSize=11;" value="Auxiliar" vertex="1">
+          <mxGeometry height="28" width="90" x="10" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="r_v3" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontColor=#000000;" value="destaca / guia" vertex="1">
+          <mxGeometry height="28" width="92" x="128" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="r_t3" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontColor=#000000;" value="Repositorio" vertex="1">
+          <mxGeometry height="28" width="90" x="255" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="r_e3a" edge="1" parent="r_container" source="r_a3" style="edgeStyle=orthogonalEdgeStyle;" target="r_v3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_e3b" edge="1" parent="r_container" source="r_v3" style="edgeStyle=orthogonalEdgeStyle;" target="r_t3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_a4" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d79b00;strokeColor=#a07800;fontColor=#000000;fontSize=11;" value="Moderador" vertex="1">
+          <mxGeometry height="28" width="90" x="10" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="r_v4" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontColor=#000000;" value="revisa / elimina" vertex="1">
+          <mxGeometry height="28" width="96" x="126" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="r_t4" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontColor=#000000;" value="Publicacion" vertex="1">
+          <mxGeometry height="28" width="90" x="255" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="r_e4a" edge="1" parent="r_container" source="r_a4" style="edgeStyle=orthogonalEdgeStyle;" target="r_v4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_e4b" edge="1" parent="r_container" source="r_v4" style="edgeStyle=orthogonalEdgeStyle;" target="r_t4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_a5" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b85450;strokeColor=#8e3c39;fontColor=#000000;fontSize=11;" value="Admin" vertex="1">
+          <mxGeometry height="28" width="90" x="10" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="r_v5" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontColor=#000000;" value="clasifica / asigna" vertex="1">
+          <mxGeometry height="28" width="104" x="122" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="r_t5" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontColor=#000000;" value="Usuarios / roles" vertex="1">
+          <mxGeometry height="28" width="100" x="245" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="r_e5a" edge="1" parent="r_container" source="r_a5" style="edgeStyle=orthogonalEdgeStyle;" target="r_v5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_e5b" edge="1" parent="r_container" source="r_v5" style="edgeStyle=orthogonalEdgeStyle;" target="r_t5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r_emergente" parent="r_container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;fontStyle=2;fontColor=#000000;" value="→ La interaccion entre partes genera conocimiento emergente" vertex="1">
+          <mxGeometry height="28" width="335" x="10" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="p_container" parent="1" style="swimlane;startSize=30;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=13;align=left;fontColor=#000000;" value="P — Perspectivas" vertex="1">
+          <mxGeometry height="300" width="360" x="630" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="p_sub" parent="p_container" style="text;html=1;fontStyle=2;fontSize=11;fillColor=none;strokeColor=none;align=left;" value="El mismo sistema — diferentes realidades de uso" vertex="1">
+          <mxGeometry height="20" width="330" x="10" y="36" as="geometry" />
+        </mxCell>
+        <mxCell id="p_admin" parent="p_container" style="swimlane;startSize=24;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=11;fontColor=#000000;" value="Administrador" vertex="1">
+          <mxGeometry height="100" width="155" x="10" y="62" as="geometry" />
+        </mxCell>
+        <mxCell id="p_a1" parent="p_admin" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Panel de control total" vertex="1">
+          <mxGeometry height="16" width="140" x="6" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="p_a2" parent="p_admin" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Gestiona roles y pensum" vertex="1">
+          <mxGeometry height="16" width="140" x="6" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="p_a3" parent="p_admin" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Ve metricas y reportes" vertex="1">
+          <mxGeometry height="16" width="140" x="6" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="p_a4" parent="p_admin" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Suspende / elimina usuarios" vertex="1">
+          <mxGeometry height="16" width="140" x="6" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p_aux" parent="p_container" style="swimlane;startSize=24;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=11;fontColor=#000000;" value="Auxiliar de Catedra" vertex="1">
+          <mxGeometry height="100" width="175" x="175" y="62" as="geometry" />
+        </mxCell>
+        <mxCell id="p_x1" parent="p_aux" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Editor y curador de contenido" vertex="1">
+          <mxGeometry height="16" width="160" x="6" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="p_x2" parent="p_aux" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Destaca mejores proyectos" vertex="1">
+          <mxGeometry height="16" width="160" x="6" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="p_x3" parent="p_aux" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Publica guias y clases grabadas" vertex="1">
+          <mxGeometry height="16" width="160" x="6" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="p_x4" parent="p_aux" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Referencia para ciclos futuros" vertex="1">
+          <mxGeometry height="16" width="160" x="6" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p_est" parent="p_container" style="swimlane;startSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=11;fontColor=#000000;" value="Estudiante" vertex="1">
+          <mxGeometry height="100" width="155" x="10" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="p_e1" parent="p_est" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Consumidor y colaborador" vertex="1">
+          <mxGeometry height="16" width="140" x="6" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="p_e2" parent="p_est" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Ve su perfil y sus repos" vertex="1">
+          <mxGeometry height="16" width="140" x="6" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="p_e3" parent="p_est" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Participa en foros y blogs" vertex="1">
+          <mxGeometry height="16" width="140" x="6" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="p_e4" parent="p_est" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Ve contenido destacado" vertex="1">
+          <mxGeometry height="16" width="140" x="6" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p_mod" parent="p_container" style="swimlane;startSize=24;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=11;fontColor=#000000;" value="Moderador" vertex="1">
+          <mxGeometry height="100" width="175" x="175" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="p_m1" parent="p_mod" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Vigilante de integridad" vertex="1">
+          <mxGeometry height="16" width="160" x="6" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="p_m2" parent="p_mod" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Ve cola de reportes" vertex="1">
+          <mxGeometry height="16" width="160" x="6" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="p_m3" parent="p_mod" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Oculta / elimina contenido" vertex="1">
+          <mxGeometry height="16" width="160" x="6" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="p_m4" parent="p_mod" style="text;html=1;fontSize=10;fillColor=none;strokeColor=none;align=left;" value="Documenta decisiones" vertex="1">
+          <mxGeometry height="16" width="160" x="6" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
